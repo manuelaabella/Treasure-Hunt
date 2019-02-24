@@ -1,0 +1,65 @@
+body{
+    text-align: center;
+    background-color:pink;
+}
+
+.button{
+  width: 300px;   
+    height: 60px;
+    font-size: 20px;
+    background: darkmagenta;
+    color:Pink;
+    border-radius: 50px;
+    transition: all .3s;
+    margin:10px; 
+    font-family: 'Charm', cursive;
+}
+
+.cool{
+    width:500px;
+}
+
+.hiddenPicthree{
+    width:600px;
+}
+
+.hiddenPicfour{
+ width:600px;   
+}
+
+.hiddenPicfive{
+ width:600px;   
+}
+
+.hiddenPictwo{
+ width:500px;   
+}
+
+.hiddenPic{
+ width:600px;   
+}
+
+.one{
+ font-size:50px;
+ font-family: 'Charm', cursive;
+ color:deeppink;
+}
+
+.secretMessage{
+ font-size:30px;
+ font-family: 'Charm', cursive;
+ color:purple;
+}
+
+.secretMessage3{
+ font-size:40px;
+ font-family: 'Charm', cursive;
+ color:purple;
+ }
+
+.secretMessage4{
+ font-size:40px;
+ font-family: 'Charm', cursive;
+ color:pink;
+}
+
